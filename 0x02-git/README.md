@@ -1,0 +1,1 @@
+This file mandatory for all ALX school projects.
